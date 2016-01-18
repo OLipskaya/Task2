@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<list>
+    <command>
+        <name>ps</name>
+        <class>console.commands.ProcessList</class>
+    </command>
+    <command>
+        <name>ls</name>
+        <class>console.commands.FilesList</class>
+    </command>
+    <command>
+        <name>pwd</name>
+        <class>console.commands.RelativePath</class>
+    </command>
+</list>
